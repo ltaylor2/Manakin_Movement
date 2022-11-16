@@ -1,0 +1,75 @@
+
+
+For video file Male_Female_Brits.MP4
+Video length was about 69.13 seconds
+Frame analysis done in 11 seconds.
+User sorting done in 20 seconds.
+------------------------
+   Final Movement Clip Times: 
+------------------------
+    0:0:15.63
+    0:0:18.63
+    0:0:24.9
+    0:0:43.53
+    0:0:55.83
+    0:1:1.9
+
+
+For video file DaveJr_noMasius.mp4
+Video length was about 21.83 seconds
+Frame analysis done in 6 seconds.
+User sorting done in 0 seconds.
+------------------------
+   Final Movement Clip Times: 
+------------------------
+NO MOTION DETECTED
+
+
+For video file Male_Female_Brits.mp4
+Video length was about 69.13 seconds
+Frame analysis done in 11 seconds.
+User sorting done in 27 seconds.
+------------------------
+   Final Movement Clip Times: 
+------------------------
+    0:0:15.63
+    0:0:18.63
+    0:0:24.9
+    0:0:43.53
+    0:0:55.83
+    0:1:1.9
+
+
+For video file Rainy_FirstLog.mp4
+Video length was about 34.63 seconds
+Frame analysis done in 10 seconds.
+User sorting done in 20 seconds.
+------------------------
+   Final Movement Clip Times: 
+------------------------
+NO MOTION DETECTED
+
+
+For video file DaveJr_noMasius.mp4
+Video length was about 21.83 seconds
+Frame analysis done in 6 seconds.
+User sorting done in 0 seconds.
+------------------------
+   Final Movement Clip Times: 
+------------------------
+NO MOTION DETECTED
+
+
+For video file Male_Female_Brits.MP4
+Video length was about 69.13 seconds
+Frame analysis done in 12 seconds.
+User sorting done in 75 seconds.
+------------------------
+   Final Movement Clip Times: 
+------------------------
+    0:0:15.63
+    0:0:18.63
+    0:0:24.9
+    0:0:43.53
+    0:0:55.83
+    0:1:1.9
